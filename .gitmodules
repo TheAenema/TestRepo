@@ -1,0 +1,3 @@
+[submodule "Jenova-Runtime"]
+	path = Jenova-Runtime
+	url = https://github.com/Jenova-Framework/Jenova-Runtime
